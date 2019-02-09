@@ -5,7 +5,7 @@ import java.text.*;
 import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
-public class Solution {
+public class sockMerchant {
   static int sockMerchant(int n, int[] ar) {
       HashSet<Integer> set = new HashSet<Integer>();
       int count = 0;
